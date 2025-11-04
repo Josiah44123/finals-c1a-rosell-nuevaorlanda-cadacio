@@ -9,8 +9,15 @@ public static void main(String[] args) {
         case 1:
             
             break;
+        case 2:
+            
+            break;
+        case 3:
+            
+            break;
         default:
             throw new AssertionError();
     }
+
     }
 }
